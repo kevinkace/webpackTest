@@ -1,0 +1,16 @@
+{
+  "name": "webpackTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node build/webpack.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "modular-css-webpack": "^4.3.1",
+    "webpack": "^2.5.1"
+  }
+}

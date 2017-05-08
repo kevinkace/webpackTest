@@ -1,0 +1,12 @@
+{
+    "app/index.css": {
+        "thing": "mcb9deac8f_thing",
+        "thing1": "mcb9deac8f_thing mcb9deac8f_thing1",
+        "thing2": "mcb9deac8f_thing mcb9deac8f_thing1 mcb9deac8f_thing2"
+    },
+    "app/index2.css": {
+        "thing": "mc7c4fa8d1_thing",
+        "thing-1": "mc7c4fa8d1_thing mc7c4fa8d1_thing-1",
+        "thing-2": "mc7c4fa8d1_thing mc7c4fa8d1_thing-1 mc7c4fa8d1_thing-2"
+    }
+}

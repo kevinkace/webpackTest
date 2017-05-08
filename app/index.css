@@ -1,0 +1,13 @@
+.thing {
+    display: block;
+}
+
+.thing1 {
+    composes: thing;
+}
+
+.thing2 {
+    composes: thing1;
+
+    color: red;
+}
